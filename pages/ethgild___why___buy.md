@@ -1,0 +1,11 @@
+- You believe that eventually all gilded ETH will want to be ungilded.
+- You can buy low and sell high.
+- You can LP on standard AMMs and collect fees with limited IL.
+- Unlike algorithmic coins, there is real ETH behind every ETHg enforced and tracked by erc1155 tokens.
+  Unlike pegged coins, there is no active management or explicit definition of what "high" or "low" should be - figure it out.
+- ETHg is burned at 0.1% faster rate than the erc1155 so a sliver of ETH is trapped for every gilding.
+- This should provide sustainable demand on the erc20 token, pushing the market price higher.
+- As the market price of the erc20 drops the benefits of gilding become less and the incentives to ungild increases.
+- The more ETHg that is bought or locked in contracts (e.g. an AMM), the more ETH is no longer ungildable.
+- There is no explicit peg to arbitrage, but very cheap ETHg could quickly lead to a bank run on gilded ETH.
+- The bank run brings the ETHg price *_up_* due to the overburn mechanism and standard AMM bonding curves.

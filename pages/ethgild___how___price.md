@@ -1,0 +1,2 @@
+- How is the reference gold price determined?
+	- Chainlink oracles.

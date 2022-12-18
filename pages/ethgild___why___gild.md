@@ -1,0 +1,8 @@
+- Because you can sell the ETHg and/or erc1155 to people who want to ungild their ETH or hold/trade gilded ETH. If that sounds circular, consider the following (oversimplified) example to leverage ETH:
+	- If the market price of ETHg is 0.8x the reference price of gold then gild 1 ETH and buy 0.8 ETH.
+	- If the market price of ETH goes up 50% against gold then sell 0.8 ETH for 1.6x erc20 minted, unlock 1 ETH and sell remaining erc20.
+	- Feel somewhat safe knowing that the market price of ETHg erc20 can never be higher than the reference price of gold.
+	- For example, if the market price of ETHg is 1.1x gold price then gild 1 ETH to buy 1.1 ETH, infinitely.
+	- This means there is an upper limit on the cost to ungild later.
+	- Of course the market price of ETH, erc20, erc1155 and gold are all variable and unpredictable over time.
+	- Hopefully the ETHg erc20 market price volatility is somewhere between ETH and fiat/gold.
